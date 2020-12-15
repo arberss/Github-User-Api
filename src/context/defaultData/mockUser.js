@@ -1,0 +1,38 @@
+export default {
+  avatar_url: 'https://avatars0.githubusercontent.com/u/313317?v=4',
+  bio:
+    'Founder &amp; CEO, Brave Software. Created JavaScript. Co-founded Mozilla and Firefox.',
+  blog: 'https://www.brendaneich.com/',
+  company: '@brave ',
+  created_at: '2010-06-24T04:39:24Z',
+  email: null,
+  events_url: 'https://api.github.com/users/BrendanEich/events{/privacy}',
+  followers: 4391,
+  followers_url: 'https://api.github.com/users/BrendanEich/followers',
+  following: 5,
+  following_url:
+    'https://api.github.com/users/BrendanEich/following{/other_user}',
+  gists_url: 'https://api.github.com/users/BrendanEich/gists{/gist_id}',
+  gravatar_id: '',
+  hireable: null,
+  html_url: 'https://github.com/BrendanEich',
+  id: 313317,
+  location: null,
+  login: 'BrendanEich',
+  name: 'Brendan Eich',
+  node_id: 'MDQ6VXNlcjMxMzMxNw==',
+  organizations_url: 'https://api.github.com/users/BrendanEich/orgs',
+  public_gists: 5,
+  public_repos: 13,
+  received_events_url:
+    'https://api.github.com/users/BrendanEich/received_events',
+  repos_url: 'https://api.github.com/users/BrendanEich/repos',
+  site_admin: false,
+  starred_url:
+    'https://api.github.com/users/BrendanEich/starred{/owner}{/repo}',
+  subscriptions_url: 'https://api.github.com/users/BrendanEich/subscriptions',
+  twitter_username: null,
+  type: 'User',
+  updated_at: '2020-11-16T15:39:07Z',
+  url: 'https://api.github.com/users/BrendanEich',
+};
